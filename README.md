@@ -1,8 +1,8 @@
-# お問い合わせフォームアプリケーション
+# お問い合わせフォーム
 
 ## 環境構築
 ### Dockerビルド
-1. ディレクトリとファイルの作成
+1. git clone  git@github.com:coachtech-material/laravel-docker-template.git
 2. docker-compose up -d --build
 
 ## Larave環境構築
