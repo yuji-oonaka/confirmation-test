@@ -1,0 +1,43 @@
+.thanks__container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thanks__background {
+    position: absolute;
+    font-size: 15vw;
+    font-family: serif;
+    font-weight: bold;
+    color: rgba(126, 107, 89, 0.1);
+    z-index: -1;
+}
+
+
+.thanks__content {
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.thanks__heading {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: #7e6b59;
+}
+
+
+.form__button-submit {
+    padding: 8px 25px;
+    font-size: 14px;
+    font-family: serif;
+    border: none;
+    border-radius: 2px;
+    background: #7e6b59;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
